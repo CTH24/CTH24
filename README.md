@@ -1,4 +1,4 @@
-# Senior Fullstack Developer: Linux, Docker, JAVA, PHP
+# Senior Fullstack Developer: Linux, Docker, Java, PHP
 
 Website: https://cth24.de
 
