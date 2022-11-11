@@ -7,7 +7,8 @@ Website: https://cth24.de
 ### Development:
 - Java / Python
 - HTML5 / CSS3 / JavaScript 
-- PHP 5 / PHP 7 / PHP 8.x / Laravel / Symphony
+- PHP 5 / PHP 7 / PHP 8.x / 
+- Laravel / Symfony
 - PSR / PHPUnit / Xdebug / Selenium / Cypress 
 - Vue2 / React / Angular2+
 - Node.js / Express.js
