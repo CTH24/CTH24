@@ -10,7 +10,7 @@ Website: https://cth24.de
 - PHP 5 / PHP 7 / PHP 8.x / 
 - Laravel / Symfony
 - PSR / PHPUnit / Xdebug / Selenium / Cypress 
-- Vue2 / React / Angular2+
+- Vue3 / React / Angular2+
 - Node.js / Express.js
 - Less / Sass / Tailwind
 - MariaDB / MySQL / MongoDB / MSSQL
