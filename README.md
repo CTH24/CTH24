@@ -20,20 +20,20 @@ Website: https://cth24.de
 - SCRUM / Kanban
 
 ### Tool Set
-- neovim
-- Markdown / Mermaid / Visio / X-Mind / yEd
+- neovim / tmux / git
 - BASH / ZSH / CMD / Powershell
-- InteliJ / PHP Storm / PyCharm
-- Visual Studio Code / Microsoft Visual Studio
-- GitLab / GitHub
 - Shell Scripting / Ansible / Jenkins
 - RHEL / Rocky Linux / Debian / Ubuntu LTS
 - Docker / Podman / Kubernetes / VirtualBox / Vagrant
+- Markdown / Mermaid / Visio / X-Mind / yEd
+- InteliJ / PHP Storm / PyCharm
+- Visual Studio Code / Microsoft Visual Studio
+- GitLab / GitHub
 - Swagger, Elasticsearch
 - Kibana / Grafana / Prometheus
 - WordPress / Typo3
 - WooCommerce / Shopware 5 / Shopware 6 / JTL / OXID
-- Slack / Skype / IRC / Discord
+- Slack / Teams / Skype / IRC / Discord
 
 ## Workstation - 01
 ![Workstation](https://user-images.githubusercontent.com/1764695/200632922-548680ad-464b-4449-9c10-1e4f2e1f6bfc.jpg)
